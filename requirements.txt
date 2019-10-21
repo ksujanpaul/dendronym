@@ -62,6 +62,6 @@ virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.2
 virtualenvwrapper-win==1.2.5
 w3lib==1.19.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 whitenoise==3.3.1
 zope.interface==4.5.0
